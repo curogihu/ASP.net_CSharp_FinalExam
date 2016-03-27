@@ -1,0 +1,6 @@
+C:\Soheil\FirstASPdotNet\FirstASPdotNet\bin\FirstASPdotNet.dll.config
+C:\Soheil\FirstASPdotNet\FirstASPdotNet\bin\FirstASPdotNet.dll
+C:\Soheil\FirstASPdotNet\FirstASPdotNet\bin\FirstASPdotNet.pdb
+C:\Soheil\FirstASPdotNet\FirstASPdotNet\obj\Debug\FirstASPdotNet.csprojResolveAssemblyReference.cache
+C:\Soheil\FirstASPdotNet\FirstASPdotNet\obj\Debug\FirstASPdotNet.dll
+C:\Soheil\FirstASPdotNet\FirstASPdotNet\obj\Debug\FirstASPdotNet.pdb

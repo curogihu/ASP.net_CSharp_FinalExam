@@ -1,0 +1,9 @@
+c:\users\itd3\documents\visual studio 2013\Projects\EmployeeLibrary\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+c:\users\itd3\documents\visual studio 2013\Projects\EmployeeLibrary\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+c:\users\itd3\documents\visual studio 2013\Projects\EmployeeLibrary\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+c:\users\itd3\documents\visual studio 2013\Projects\EmployeeLibrary\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+C:\Users\ITD3\Desktop\sample\EmployeeLibrary\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Users\ITD3\Desktop\sample\EmployeeLibrary\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Users\ITD3\Desktop\sample\EmployeeLibrary\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ITD3\Desktop\sample\EmployeeLibrary\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Users\ITD3\Desktop\sample\EmployeeLibrary\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb

@@ -1,0 +1,12 @@
+C:\Soheil\DBBrowse\DBBrowse\bin\DBBrowse.dll.config
+C:\Soheil\DBBrowse\DBBrowse\bin\DBBrowse.dll
+C:\Soheil\DBBrowse\DBBrowse\bin\DBBrowse.pdb
+C:\Soheil\DBBrowse\DBBrowse\obj\Debug\DBBrowse.csprojResolveAssemblyReference.cache
+C:\Soheil\DBBrowse\DBBrowse\obj\Debug\DBBrowse.dll
+C:\Soheil\DBBrowse\DBBrowse\obj\Debug\DBBrowse.pdb
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\DBBrowse\DBBrowse\bin\DBBrowse.dll.config
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\DBBrowse\DBBrowse\bin\DBBrowse.dll
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\DBBrowse\DBBrowse\bin\DBBrowse.pdb
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\DBBrowse\DBBrowse\obj\Debug\DBBrowse.csprojResolveAssemblyReference.cache
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\DBBrowse\DBBrowse\obj\Debug\DBBrowse.dll
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\DBBrowse\DBBrowse\obj\Debug\DBBrowse.pdb

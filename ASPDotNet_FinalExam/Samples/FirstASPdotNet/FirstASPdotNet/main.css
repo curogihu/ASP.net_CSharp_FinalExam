@@ -1,0 +1,9 @@
+﻿body {
+    background-color:azure; 
+}
+#top {
+    width:100%;
+    float:left;
+    height: 3cm;
+    background-color:yellow;  
+}

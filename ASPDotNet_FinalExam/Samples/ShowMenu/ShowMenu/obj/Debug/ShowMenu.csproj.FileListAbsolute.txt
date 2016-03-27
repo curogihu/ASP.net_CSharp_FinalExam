@@ -1,0 +1,12 @@
+C:\Soheil\ShowMenu\ShowMenu\bin\ShowMenu.dll.config
+C:\Soheil\ShowMenu\ShowMenu\bin\ShowMenu.dll
+C:\Soheil\ShowMenu\ShowMenu\bin\ShowMenu.pdb
+C:\Soheil\ShowMenu\ShowMenu\obj\Debug\ShowMenu.csprojResolveAssemblyReference.cache
+C:\Soheil\ShowMenu\ShowMenu\obj\Debug\ShowMenu.dll
+C:\Soheil\ShowMenu\ShowMenu\obj\Debug\ShowMenu.pdb
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\ShowMenu\ShowMenu\bin\ShowMenu.dll.config
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\ShowMenu\ShowMenu\bin\ShowMenu.dll
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\ShowMenu\ShowMenu\bin\ShowMenu.pdb
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\ShowMenu\ShowMenu\obj\Debug\ShowMenu.csprojResolveAssemblyReference.cache
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\ShowMenu\ShowMenu\obj\Debug\ShowMenu.dll
+C:\Users\ITD3\Desktop\ASPDotNet_FinalExam\ShowMenu\ShowMenu\obj\Debug\ShowMenu.pdb
